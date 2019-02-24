@@ -50,10 +50,3 @@ extension ViewController: UITextViewDelegate {
         }
     }
 }
-
-
-
-/*
- Future Reference:
- Easy Trick to Auto Sizing UITextView in Real Time   -  [ https://www.youtube.com/watch?v=0Jb29c22xu8 ]
-*/
