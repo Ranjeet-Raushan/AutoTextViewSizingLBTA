@@ -17,6 +17,7 @@ class ViewController: UIViewController {
         textView.text = "Here is some default text that we want to show and it might be a couple of lines that are word wrapped"
         
         view.addSubview(textView)
+        print(textView)
         
         // use auto layout to set my textview frame....kinda
         textView.translatesAutoresizingMaskIntoConstraints = false
